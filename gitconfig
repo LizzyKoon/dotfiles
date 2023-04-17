@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = audibert.maxence@gmail.com
+	name = Maxence Audibert
